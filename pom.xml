@@ -155,7 +155,7 @@
                 <configuration>
                     <url>jdbc:mysql://localhost:3306/store_api?createDatabaseIfNotExist=true</url>
                     <user>root</user>
-                    <password>MyPassword!</password>
+                    <password>mypassword1</password>
                     <cleanDisabled>false</cleanDisabled>
                 </configuration>
             </plugin>
