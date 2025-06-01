@@ -9,6 +9,6 @@ public class StoreApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(StoreApplication.class, args);
-        System.out.println("It's working");
+        System.out.println("It's working, in progress...");
     }
 }
